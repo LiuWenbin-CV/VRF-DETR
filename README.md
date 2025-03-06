@@ -9,7 +9,9 @@
 
 
 ## Introduction
-This project develops an object detection solution with adaptive variable receptive fields specifically optimized for the VisDrone219 dataset characteristics.
+This project develops an object detection solution with adaptive variable receptive fields specifically optimized for the VisDrone219 dataset characteristics. The following peacture shows the architecture of VRF-DETR.
+![image](https://github.com/user-attachments/assets/9a5aec51-5dc8-4274-8164-8bd760f4ef63)
+
 
 Our algorithm is primarily built upon the Ultralytics open-source toolbox compatible with PyTorch 1.13+.
 
