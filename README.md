@@ -20,7 +20,7 @@ The core model implementation is located in ultralytics/nn/extra_models/, while 
 ## Results and Models
 300-epoch pre-trained VRF-DETR: [Download](https://pan.baidu.com/s/1rn7j1Nx_1TIkjEaVkUpjug?pwd=VRF1)
 
-VisDrone219 Performance
+VisDrone2019 Performance
 ![image](https://github.com/user-attachments/assets/296469b9-0c01-4771-995b-2244de519937)
 
 
@@ -85,7 +85,7 @@ Refer to the [Ultralytics Quick Start Guide](https://docs.ultralytics.com/quicks
 
 ## Data Preparation
 
-For VisDrone dataset preparation, please refer to: [How to prepare your VisDrone dataset](https://docs.ultralytics.com/datasets/detect/visdrone/) 进行。
+For VisDrone dataset preparation, please refer to: [How to prepare your VisDrone dataset](https://docs.ultralytics.com/datasets/detect/visdrone/)。
 
 
 ## Testing Our Mode
